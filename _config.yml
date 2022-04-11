@@ -77,13 +77,13 @@ footer:
   links:
     - label: 'Twitter'
       icon: 'fab fa-fw fa-twitter-square'
-      url: 'https://twitter.com/'
+      url: 'https://twitter.com/A20Q'
     - label: 'GitHub'
       icon: 'fab fa-fw fa-github'
-      url: 'https://github.com/'
+      url: 'https://github.com/Mac20Q'
     - label: 'Instagram'
       icon: 'fab fa-fw fa-instagram'
-      url: 'https://instagram.com/'
+      url: 'https://instagram.com/Wizardgold'
 
 defaults:
   # _posts
